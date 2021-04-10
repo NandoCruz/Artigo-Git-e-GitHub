@@ -4,4 +4,7 @@
 /* Font Geral */
 body {
     font-family: 'Titillium Web', sans-serif;
+    color: #424242;
+    background-color: #e5e5ff;
+    margin: 0px auto 0px auto;
 }
