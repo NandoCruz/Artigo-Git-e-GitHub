@@ -14,5 +14,22 @@ div#interface section#corpo {
     width: 800px;
     position: absolute;
     background-color: #ffffff;
-    margin: 20px 0px 10px 290px;
+    margin: 20px 0px auto 290px;
+}
+
+/* Minha foto - imagens/foto1 */
+header#cabecalho img#foto1 {
+    position: absolute;
+    margin: 50px 0px 0px 10px;
+}
+
+header#cabecalho section#rede-social {
+    position: absolute;
+    display: block;
+    width: 230px;
+    padding: 5px;
+    margin-left: 17px;
+    margin-top: 17px;
+    text-align: center;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
 }
