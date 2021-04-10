@@ -4,7 +4,7 @@
 /* Font Geral */
 body {
     font-family: 'Titillium Web', sans-serif;
-    color: #424242;
+    color: #000000;
     background-color: #e5e5ff;
     margin: 0px auto 0px auto;
 }
@@ -63,8 +63,36 @@ aside#lateral p {
 }
 
 aside#lateral h1 {
-    font-size: 26pt;
+    font-size: 30pt;
     font-weight: bold;
     margin-left: 20px;
     color: #008DD0;
+}
+
+aside#lateral h2{
+    font-size: 20pt;
+    font-weight: bold;
+    margin-left: 20px;
+    color: #008DD0;
+}
+
+aside#lateral h3 {
+    font-size: 16pt;
+    font-weight: bold;
+    margin-left: 20px;
+    color: #424242;
+}
+
+/* site do Curso em vídeo*/
+aside#lateral a#site{
+    font-size: 12pt;
+    margin: 20px;
+    color: #000080;
+    text-decoration: none;    
+}
+
+aside#lateral a#site:hover {
+    font-weight: bold;
+    color: #0000800;
+    text-decoration: none;
 }
