@@ -1,8 +1,8 @@
-# Artigo-Git-e-GitHub
+# Artigo Git e GitHub
 
-## Artigo sobre o Git e GitHub
+## Você sabe o que é Git e GitHub?
 
-### Para acessar o artigo. [Clique aqui](https://nandocruz.github.io/Artigo-Git-e-GitHub/).
+###Não. Então leia esse artigo. [Clique aqui](https://nandocruz.github.io/Artigo-Git-e-GitHub/).
 
 ### Feito por Fernando Cruz.
 
