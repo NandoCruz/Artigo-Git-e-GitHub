@@ -2,7 +2,7 @@
 
 ## Você sabe o que é Git e GitHub?
 
-###Não. Então leia esse artigo. [Clique aqui](https://nandocruz.github.io/Artigo-Git-e-GitHub/).
+### Não. Então leia esse artigo. [Clique aqui](https://nandocruz.github.io/Artigo-Git-e-GitHub/).
 
 ### Feito por Fernando Cruz.
 
